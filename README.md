@@ -1,1 +1,1 @@
-"# SparK-Hbase-App" 
+A Spark application in Scala for seamlessly integrating and writing data from Spark DataFrames into an HBase table. This project leverages the Spark-HBase connector to efficiently transfer data, providing a scalable and performant solution for HBase data ingestion within a Spark environment.
